@@ -36,8 +36,8 @@ Also find/replace on https://example.com
   <!-- [![Issues][issues-shield]][issues-url] -->
   [![License][license-shield]][license-url]
 
-  [![LinkedIn][linkedin-shield]][linkedin-url]
--->
+  <!-- [![LinkedIn][linkedin-shield]][linkedin-url] -->
+
 
 
 <!-- PROJECT LOGO -->
@@ -50,7 +50,7 @@ Also find/replace on https://example.com
   <!-- <h3 align="center">project_title</h3> -->
 
   <p align="center">
-    Result of following [Jekyll tutorial](https://jekyllrb.com/). Jekyll is a tool used to deploy static sites. 
+    The end result of following the <a href="https://jekyllrb.com/docs/step-by-step/01-setup/">Jekyll tutorial</a>. Jekyll is a tool used to deploy static sites. 
     <!-- <br /> -->
     <!-- <a href="https://github.com/jt-ziolo/jekyll-tutorial"><strong>Explore the docs »</strong></a> -->
     <!-- <br /> -->
@@ -97,7 +97,7 @@ Also find/replace on https://example.com
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project is the end result of following Jekyll tutorial. Jekyll is a tool used to deploy static sites. It builds blog-aware, structured static websites using the Liquid templating language, Markdown, HTML, and CSS. 
+This project is the end result of following the Jekyll tutorial. Jekyll is a tool used to deploy static sites. It builds blog-aware, structured static websites using the Liquid templating language, Markdown, HTML, and CSS. You can read more about Jekyll at the <a href="https://jekyllrb.com/">official website</a>.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -106,8 +106,8 @@ This project is the end result of following Jekyll tutorial. Jekyll is a tool us
 
 ### Built With
 
-* [![Jekyll][Jekyll]][https://jekyllrb.com/]
-* [![SASS][SASS]][https://sass-lang.com/]
+* <a href="https://jekyllrb.com/">Jekyll</a>
+* <a href="https://sass-lang.com/">SASS</a>
 <!-- * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
@@ -124,7 +124,7 @@ This project is the end result of following Jekyll tutorial. Jekyll is a tool us
 <!-- LICENSE -->
 ## License
 
-Distributed under the license_name License. See `LICENSE.txt` for more information.
+Jekyll is distributed under the [MIT License](https://github.com/jekyll/jekyll/blob/master/LICENSE). This repo is distributed under the same LICENSE.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -132,7 +132,7 @@ Distributed under the license_name License. See `LICENSE.txt` for more informati
 
 ## Contact
 
-JT Ziolo - ziolojt@gmail.com
+Jason "JT" Ziolo - ziolojt@gmail.com
 
 Project Link: [https://github.com/jt-ziolo/jekyll-tutorial](https://github.com/jt-ziolo/jekyll-tutorial)
 
@@ -158,16 +158,16 @@ Project Link: [https://github.com/jt-ziolo/jekyll-tutorial](https://github.com/j
 [stars-url]: https://github.com/jt-ziolo/jekyll-tutorial/stargazers
 <!-- [issues-shield]: https://img.shields.io/github/issues/jt-ziolo/jekyll-tutorial.svg?style=for-the-badge -->
 <!-- [issues-url]: https://github.com/jt-ziolo/jekyll-tutorial/issues -->
-[license-shield]: https://img.shields.io/github/license/jt-ziolo/jekyll-tutorial.svg?style=for-the-badge
-[license-url]: https://github.com/jt-ziolo/jekyll-tutorial/blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/jekyll/jekyll.svg?style=for-the-badge
+[license-url]: https://github.com/jekyll/jekyll/blob/master/LICENSE
 <!-- [codacy-shield]: https://img.shields.io/codacy/grade/codacy_id -->
 <!-- [codacy-url]: https://www.codacy.com/product -->
 <!-- [docs-shield]: https://img.shields.io/readthedocs/docs_name -->
 <!-- [docs-url]: https://readthedocs.org/ -->
 <!-- [jenkins-shield]: https://img.shields.io/jenkins/build?jobUrl=jenkins_job_url -->
 <!-- [jenkins-url]: https://www.jenkins.io -->
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+<!-- [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555 -->
+<!-- [linkedin-url]: https://linkedin.com/in/linkedin_username -->
 <!-- [product-screenshot]: images/screenshot.png -->
 <!-- [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
